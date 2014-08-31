@@ -1,0 +1,7 @@
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\CPN_Client1\bin\Debug\CPN_Client1.exe
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\CPN_Client1\bin\Debug\CPN_Client1.pdb
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\CPN_Client1\obj\x86\Debug\CPN_Client1.Form1.resources
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\CPN_Client1\obj\x86\Debug\CPN_Client1.Properties.Resources.resources
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\CPN_Client1\obj\x86\Debug\CPN_Client1.csproj.GenerateResource.Cache
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\CPN_Client1\obj\x86\Debug\CPN_Client1.exe
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\CPN_Client1\obj\x86\Debug\CPN_Client1.pdb

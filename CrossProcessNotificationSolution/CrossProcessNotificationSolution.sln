@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrossProcessNotificationClient", "..\CrossProcessNotificationClient\CrossProcessNotificationClient.vcxproj", "{010EF700-2495-41D9-B5A8-8B4B1564644D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrossProcessNotificationServer", "..\CrossProcessNotificationServer\CrossProcessNotificationServer.vcxproj", "{D3A4ED70-AC2E-490B-B230-BB85A09A4FFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerDBA", "..\ServerDBA\ServerDBA.csproj", "{9C6F6352-72B1-40B2-A592-C3FA567D0A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPN_Client1", "..\CPN_Client1\CPN_Client1.csproj", "{57DF2BC3-D90B-4717-94E3-F1E9F36030F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{010EF700-2495-41D9-B5A8-8B4B1564644D}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{010EF700-2495-41D9-B5A8-8B4B1564644D}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{010EF700-2495-41D9-B5A8-8B4B1564644D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{010EF700-2495-41D9-B5A8-8B4B1564644D}.Debug|Win32.Build.0 = Debug|Win32
+		{010EF700-2495-41D9-B5A8-8B4B1564644D}.Debug|x86.ActiveCfg = Debug|Win32
+		{010EF700-2495-41D9-B5A8-8B4B1564644D}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{010EF700-2495-41D9-B5A8-8B4B1564644D}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{010EF700-2495-41D9-B5A8-8B4B1564644D}.Release|Win32.ActiveCfg = Release|Win32
+		{010EF700-2495-41D9-B5A8-8B4B1564644D}.Release|Win32.Build.0 = Release|Win32
+		{010EF700-2495-41D9-B5A8-8B4B1564644D}.Release|x86.ActiveCfg = Release|Win32
+		{D3A4ED70-AC2E-490B-B230-BB85A09A4FFE}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{D3A4ED70-AC2E-490B-B230-BB85A09A4FFE}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{D3A4ED70-AC2E-490B-B230-BB85A09A4FFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3A4ED70-AC2E-490B-B230-BB85A09A4FFE}.Debug|Win32.Build.0 = Debug|Win32
+		{D3A4ED70-AC2E-490B-B230-BB85A09A4FFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{D3A4ED70-AC2E-490B-B230-BB85A09A4FFE}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{D3A4ED70-AC2E-490B-B230-BB85A09A4FFE}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{D3A4ED70-AC2E-490B-B230-BB85A09A4FFE}.Release|Win32.ActiveCfg = Release|Win32
+		{D3A4ED70-AC2E-490B-B230-BB85A09A4FFE}.Release|Win32.Build.0 = Release|Win32
+		{D3A4ED70-AC2E-490B-B230-BB85A09A4FFE}.Release|x86.ActiveCfg = Release|Win32
+		{9C6F6352-72B1-40B2-A592-C3FA567D0A7B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9C6F6352-72B1-40B2-A592-C3FA567D0A7B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9C6F6352-72B1-40B2-A592-C3FA567D0A7B}.Debug|Win32.ActiveCfg = Debug|x86
+		{9C6F6352-72B1-40B2-A592-C3FA567D0A7B}.Debug|x86.ActiveCfg = Debug|x86
+		{9C6F6352-72B1-40B2-A592-C3FA567D0A7B}.Debug|x86.Build.0 = Debug|x86
+		{9C6F6352-72B1-40B2-A592-C3FA567D0A7B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9C6F6352-72B1-40B2-A592-C3FA567D0A7B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9C6F6352-72B1-40B2-A592-C3FA567D0A7B}.Release|Win32.ActiveCfg = Release|x86
+		{9C6F6352-72B1-40B2-A592-C3FA567D0A7B}.Release|x86.ActiveCfg = Release|x86
+		{9C6F6352-72B1-40B2-A592-C3FA567D0A7B}.Release|x86.Build.0 = Release|x86
+		{57DF2BC3-D90B-4717-94E3-F1E9F36030F5}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{57DF2BC3-D90B-4717-94E3-F1E9F36030F5}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{57DF2BC3-D90B-4717-94E3-F1E9F36030F5}.Debug|Win32.ActiveCfg = Debug|x86
+		{57DF2BC3-D90B-4717-94E3-F1E9F36030F5}.Debug|x86.ActiveCfg = Debug|x86
+		{57DF2BC3-D90B-4717-94E3-F1E9F36030F5}.Debug|x86.Build.0 = Debug|x86
+		{57DF2BC3-D90B-4717-94E3-F1E9F36030F5}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{57DF2BC3-D90B-4717-94E3-F1E9F36030F5}.Release|Mixed Platforms.Build.0 = Release|x86
+		{57DF2BC3-D90B-4717-94E3-F1E9F36030F5}.Release|Win32.ActiveCfg = Release|x86
+		{57DF2BC3-D90B-4717-94E3-F1E9F36030F5}.Release|x86.ActiveCfg = Release|x86
+		{57DF2BC3-D90B-4717-94E3-F1E9F36030F5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

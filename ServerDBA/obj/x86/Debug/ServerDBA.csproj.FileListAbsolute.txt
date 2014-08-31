@@ -1,0 +1,7 @@
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\ServerDBA\bin\Debug\ServerDBA.exe
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\ServerDBA\bin\Debug\ServerDBA.pdb
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\ServerDBA\obj\x86\Debug\ServerDBA.Form1.resources
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\ServerDBA\obj\x86\Debug\ServerDBA.Properties.Resources.resources
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\ServerDBA\obj\x86\Debug\ServerDBA.csproj.GenerateResource.Cache
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\ServerDBA\obj\x86\Debug\ServerDBA.exe
+C:\Users\_mTy\working\project\vs_proj\CJ\CJNetFramework\CrossProcessNotificationManager\ServerDBA\obj\x86\Debug\ServerDBA.pdb
